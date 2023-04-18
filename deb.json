@@ -1,0 +1,39 @@
+{
+  "usuario": [
+    {
+      "nombre": "hol",
+      "correo": "sadd@gaac.com",
+      "id": 1
+    },
+    {
+      "nombre": "carlos m",
+      "correo": "torrico@gmail.com",
+      "id": 2
+    },
+    {
+      "nombre": "SASD",
+      "correo": "adasd@gmail.com",
+      "id": 3
+    },
+    {
+      "nombre": "sadad",
+      "correo": "adasd@gmail.com",
+      "id": 4
+    },
+    {
+      "nombre": "sad",
+      "correo": "sadd@gaac.com",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
